@@ -156,7 +156,6 @@ J 0 <br>
 <h2>Sample Output</h2>
 <hr>
 Path found: ['A', 'F', 'G', 'I', 'J']
-![image](https://github.com/user-attachments/assets/9cf6ca33-4cf8-4207-b1c8-0041dd9e70d0)
 
 
 <hr>
@@ -186,5 +185,6 @@ G 0 <br>
 <h2>Sample Output</h2>
 <hr>
 Path found: ['A', 'E', 'D', 'G']
-![image](https://github.com/user-attachments/assets/cfcc9fe4-e555-48db-b881-4d68425ac29a)
 
+## Result:
+Thus a graph was constructed and implemantation of A star Search for the same graph was done successfully.
